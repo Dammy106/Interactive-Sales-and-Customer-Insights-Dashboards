@@ -6,25 +6,25 @@ Developed two dynamic Tableau dashboards to analyze sales metrics and customer b
 ### Sales Dashboard
 
 • KPI Overview: Summarized total sales, profits, and quantities for the current and previous years.<br/>
-• Sales Trends: Visualized monthly KPIs, highlighting months with highest and lowest sales for quick analysis.
-• Product Subcategory Comparison: Compared sales and profit performance across subcategories for both years.
-• Weekly Sales & Profit Trends: Illustrated granular weekly data for the current year to uncover detailed patterns.
+• Sales Trends: Visualized monthly KPIs, highlighting months with highest and lowest sales for quick analysis.<br/>
+• Product Subcategory Comparison: Compared sales and profit performance across subcategories for both years.<br/>
+• Weekly Sales & Profit Trends: Illustrated granular weekly data for the current year to uncover detailed patterns.<br/>
 ![Sales Dashboard](https://github.com/user-attachments/assets/b2709872-1317-464d-a0e3-7b24312e2156)
 
 ### Customer Dashboard
 
-• KPI Overview: Displayed total customers, sales per customer, and number of orders for the current and previous years.
-• Customer Trends: Showed monthly trends with interactive filters for categories, subcategories, regions, states, and cities.
-• Customer Distribution: Analyzed customer behavior by visualizing the number of orders placed.
-• Top 10 Customers: Ranked top customers by profit with details on orders, sales, profit, and last order date.
+• KPI Overview: Displayed total customers, sales per customer, and number of orders for the current and previous years.<br/>
+• Customer Trends: Showed monthly trends with interactive filters for categories, subcategories, regions, states, and cities.<br/>
+• Customer Distribution: Analyzed customer behavior by visualizing the number of orders placed.<br/>
+• Top 10 Customers: Ranked top customers by profit with details on orders, sales, profit, and last order date.<br/>
 ![Customer Dashboard](https://github.com/user-attachments/assets/121c7d2e-b868-4ca0-b4e2-052aa06dc8f1)
 
 ### Design & Interactivity
 
-• Integrated dynamic year-selection capabilities to allow historical data exploration.
-• Created interactive filters for users to drill down by product categories and geographic locations.
-• Built dashboards with seamless navigation and interactive charts for an engaging user experience.
-• These dashboards enabled stakeholders to explore sales and customer data dynamically, uncover trends, and make informed decisions to optimize marketing and sales strategies.
+• Integrated dynamic year-selection capabilities to allow historical data exploration.<br/>
+• Created interactive filters for users to drill down by product categories and geographic locations.<br/>
+• Built dashboards with seamless navigation and interactive charts for an engaging user experience.<br/>
+• These dashboards enabled stakeholders to explore sales and customer data dynamically, uncover trends, and make informed decisions to optimize marketing and sales strategies.<br/>
 
 ### Tools Used
 
