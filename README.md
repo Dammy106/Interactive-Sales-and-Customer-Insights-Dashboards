@@ -5,7 +5,7 @@ Developed two dynamic Tableau dashboards to analyze sales metrics and customer b
 
 ### Sales Dashboard
 
-• KPI Overview: Summarized total sales, profits, and quantities for the current and previous years.
+• KPI Overview: Summarized total sales, profits, and quantities for the current and previous years.\n
 • Sales Trends: Visualized monthly KPIs, highlighting months with highest and lowest sales for quick analysis.
 • Product Subcategory Comparison: Compared sales and profit performance across subcategories for both years.
 • Weekly Sales & Profit Trends: Illustrated granular weekly data for the current year to uncover detailed patterns.
